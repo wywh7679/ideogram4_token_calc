@@ -1,0 +1,3 @@
+# Tokenizer files only; no model weights or torch installation is required.
+transformers==4.57.1
+tokenizers==0.22.1
